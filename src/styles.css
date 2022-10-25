@@ -3,6 +3,7 @@
   font-size: larger;
   text-align: center;
   background: rgb(215, 245, 188);
+  border-radius: 15px;
 }
 
 button {
